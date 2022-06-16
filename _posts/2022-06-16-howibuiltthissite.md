@@ -9,7 +9,7 @@ tags: [web dev, web, jekyll]
 
 This site is based on [Jekyll](https://jekyllrb.com/), a static site generator. Jekyll is not only useful for blogs, such as this one, but also for a documentation sites, as well as most other types of website. 
 
-My site uses the [Chirpy](yll-theme-chirpy#quick-start) theme, which is built by [Cotes2020](https://github.com/cotes2020) on GitHub.
+My site uses the Chirpy theme, which is built by Cotes2020 on GitHub.
 
 In order to get my site into the state it is currently, I followed Techno Tim's walk through, which you can find [here](https://www.youtube.com/watch?v=F8iOU1ci19Q).
 
