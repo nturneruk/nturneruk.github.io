@@ -18,3 +18,5 @@ In order to configure my site and add posts, I use Windows Subsystem for Linux (
 Obviously, I host my site through GitHub, as it is free, has excellent avaialbility rates. It also allows me to use the GitHub actions created by Cotes, used for pushing posts etc. to GitHub. 
 
 All of my posts are written in markdown format (.md). 
+
+---
