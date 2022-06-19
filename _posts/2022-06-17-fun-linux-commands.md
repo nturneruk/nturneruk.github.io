@@ -9,7 +9,7 @@ tags: [linux, ubuntu, commands, fun]
 
 I'm trying to learn Linux - which will no doubt be useful for my future career(s). In order to mix it up a little, I thought I would write a post on 5 fun Linux commands. All of the commands in this post will be for Ubuntu, as this is what I use. 
 
-For all of these commands, I am assuming that you havve updated your system using the following command:
+For all of these commands, I am assuming that you have updated your system using the following command:
 ```shell
 sudo apt update && sudo apt upgrade
 ```
