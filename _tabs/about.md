@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> I enjoy having online privacy, and so should you. Therefore, there are no cookies or other methods of tracking on this site.
+> Please note, there are no cookies or other methods of tracking on this site.
 {: .prompt-tip }
 
 ---
