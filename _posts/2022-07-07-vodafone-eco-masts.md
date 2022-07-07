@@ -5,8 +5,6 @@ categories: [Tech News]
 tags: [news, vodafone, mast, eco, environment, mobile phones]
 ---
 
-# Vodafone's Eco Friendly Masts
-
 On the 15th of June, Vodafone released a press release regarding the switching on of both their, and the UK's, first "self powered" mobile phone mast. If you are interested, you can read that article [HERE](https://newscentre.vodafone.co.uk/press-release/uk-first-self-powering-mobile-phone-mast-live-wales/).
 
 ![An image of the mast itself](https://images2.imgbox.com/34/31/brmnDe2y_o.jpg)
