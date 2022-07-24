@@ -5,7 +5,6 @@ categories: [JNCIA]
 tags: [jncia, junos, juniper, certs, certifications, networking, ccna]
 ---
 
-# Taking a leap - JNCIA-JUNOS
 
 I will be going into my last year of A-Levels in September. Once I have finished these, I will be looking for an apprenticeship in Network Engineering. Therefore, I am looking for ways to boost my CV. 
 
