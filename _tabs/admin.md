@@ -1,7 +1,7 @@
 ---
-title: ADmin
+title: Admin
 icon: fas fa-info-circle
 order: 5
-published: false
+exclude: true 
 ---
 ##Admin Test Page
